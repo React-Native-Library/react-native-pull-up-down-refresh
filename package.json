@@ -7,8 +7,6 @@
   ],
   "_from": "react-native-pull-up-down-refresh",
   "_id": "react-native-pull-up-down-refresh",
-  "_inCache": true,
-  "_installable": true,
   "_location": "/react-native-pull-up-down-refresh",
   "_nodeVersion": "6.5.0",
   "_npmUser": {
@@ -43,7 +41,6 @@
   "description": "A smart pull-down-refresh and pull-up-loadmore react-native listview, for ios, written in pure JS, for android, written in JS and Java.",
   "devDependencies": {},
   "directories": {},
-  "gitHead": "0ba576c15e9ead593acb3a78667d4fa063b7edef",
   "keywords": [
     "react-native",
     "smart",
@@ -73,5 +70,5 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "version": "1.0.1"
+  "version": "1.0.2"
 }
