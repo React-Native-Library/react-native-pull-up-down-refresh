@@ -1,0 +1,81 @@
+{
+  "_args": [
+    [
+      "react-native-pull-up-down-refresh",
+      "/Users/tyler/workspace/rn-space/HFHE001_iSocialApp"
+    ]
+  ],
+  "_from": "react-native-pull-up-down-refresh",
+  "_id": "react-native-pull-up-down-refresh",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/react-native-pull-up-down-refresh",
+  "_nodeVersion": "6.5.0",
+  "_npmOperationalInternal": {
+    "host": "packages-18-east.internal.npmjs.com",
+    "tmp": "tmp/react-native-smart-pull-to-refresh-listview-1.6.10.tgz_1489543264784_0.4914372528437525"
+  },
+  "_npmUser": {
+    "email": "richard.jiang@gmail.com",
+    "name": "richard"
+  },
+  "_npmVersion": "3.10.3",
+  "_phantomChildren": {},
+  "_requested": {
+    "name": "react-native-pull-up-down-refresh",
+    "raw": "react-native-pull-up-down-refresh",
+    "rawSpec": "",
+    "scope": null,
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+
+  "_spec": "react-native-pull-up-down-refresh",
+
+  "author": {
+    "name": "Richard"
+  },
+  "bugs": {
+    "url": "https://github.com/React-Native-Library/react-native-pull-up-down-refresh/issues"
+  },
+  "dependencies": {
+    "react-native-smart-timer-enhance": "^1.0.2"
+  },
+  "description": "A smart pull-down-refresh and pull-up-loadmore react-native listview, for ios, written in pure JS, for android, written in JS and Java.",
+  "devDependencies": {},
+  "directories": {},
+  "gitHead": "0ba576c15e9ead593acb3a78667d4fa063b7edef",
+  "keywords": [
+    "react-native",
+    "smart",
+    "pull",
+    "up",
+    "down",
+    "refresh",
+    "loadmore",
+    "listview",
+    "component"
+  ],
+  "license": "MIT",
+  "main": "PullToRefreshListView",
+  "maintainers": [
+    {
+      "email": "richard.jiang@gmail.com",
+      "name": "richard"
+    }
+  ],
+  "name": "react-native-pull-up-down-refresh",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/React-Native-Library/react-native-pull-up-down-refresh.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
+}

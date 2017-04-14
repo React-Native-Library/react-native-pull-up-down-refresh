@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/Users/tyler/workspace/rn-space/HFHE001_iSocialApp/node_modules/react-native-smart-pull-to-refresh-listview/android/build/intermediates/res/merged/androidTest/debug/color/abc_secondary_text_material_dark.xml",
+        "source": "/Users/tyler/.android/build-cache/e73b63a295565fae5382f8735a5d60e64b4e603c/output/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/tyler/workspace/rn-space/HFHE001_iSocialApp/node_modules/react-native-smart-pull-to-refresh-listview/android/build/intermediates/res/merged/androidTest/debug/color/abc_search_url_text.xml",
+        "source": "/Users/tyler/.android/build-cache/e73b63a295565fae5382f8735a5d60e64b4e603c/output/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/Users/tyler/workspace/rn-space/HFHE001_iSocialApp/node_modules/react-native-smart-pull-to-refresh-listview/android/build/intermediates/res/merged/androidTest/debug/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/Users/tyler/.android/build-cache/e73b63a295565fae5382f8735a5d60e64b4e603c/output/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/Users/tyler/workspace/rn-space/HFHE001_iSocialApp/node_modules/react-native-smart-pull-to-refresh-listview/android/build/intermediates/res/merged/androidTest/debug/color/switch_thumb_material_light.xml",
+        "source": "/Users/tyler/.android/build-cache/e73b63a295565fae5382f8735a5d60e64b4e603c/output/res/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/Users/tyler/workspace/rn-space/HFHE001_iSocialApp/node_modules/react-native-smart-pull-to-refresh-listview/android/build/intermediates/res/merged/androidTest/debug/color/abc_primary_text_material_light.xml",
+        "source": "/Users/tyler/.android/build-cache/e73b63a295565fae5382f8735a5d60e64b4e603c/output/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/tyler/workspace/rn-space/HFHE001_iSocialApp/node_modules/react-native-smart-pull-to-refresh-listview/android/build/intermediates/res/merged/androidTest/debug/color/switch_thumb_material_dark.xml",
+        "source": "/Users/tyler/.android/build-cache/e73b63a295565fae5382f8735a5d60e64b4e603c/output/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/Users/tyler/workspace/rn-space/HFHE001_iSocialApp/node_modules/react-native-smart-pull-to-refresh-listview/android/build/intermediates/res/merged/androidTest/debug/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/Users/tyler/.android/build-cache/e73b63a295565fae5382f8735a5d60e64b4e603c/output/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/Users/tyler/workspace/rn-space/HFHE001_iSocialApp/node_modules/react-native-smart-pull-to-refresh-listview/android/build/intermediates/res/merged/androidTest/debug/color/abc_primary_text_material_dark.xml",
+        "source": "/Users/tyler/.android/build-cache/e73b63a295565fae5382f8735a5d60e64b4e603c/output/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/tyler/workspace/rn-space/HFHE001_iSocialApp/node_modules/react-native-smart-pull-to-refresh-listview/android/build/intermediates/res/merged/androidTest/debug/color/abc_secondary_text_material_light.xml",
+        "source": "/Users/tyler/.android/build-cache/e73b63a295565fae5382f8735a5d60e64b4e603c/output/res/color/abc_secondary_text_material_light.xml"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/Users/tyler/workspace/rn-space/HFHE001_iSocialApp/node_modules/react-native-smart-pull-to-refresh-listview/android/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-v18/values-v18.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 48,
+                    "endOffset": 99
+                },
+                "from": {
+                    "file": "/Users/tyler/.android/build-cache/e73b63a295565fae5382f8735a5d60e64b4e603c/output/res/values-v18/values-v18.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 48,
+                        "endOffset": 99
+                    }
+                }
+            }
+        ]
+    }
+]

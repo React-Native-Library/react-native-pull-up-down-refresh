@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/tyler/workspace/rn-space/HFHE001_iSocialApp/node_modules/react-native-smart-pull-to-refresh-listview/android/build/intermediates/res/merged/release/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/tyler/.android/build-cache/e73b63a295565fae5382f8735a5d60e64b4e603c/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/tyler/workspace/rn-space/HFHE001_iSocialApp/node_modules/react-native-smart-pull-to-refresh-listview/android/build/intermediates/res/merged/release/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/tyler/.android/build-cache/e73b63a295565fae5382f8735a5d60e64b4e603c/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/tyler/workspace/rn-space/HFHE001_iSocialApp/node_modules/react-native-smart-pull-to-refresh-listview/android/build/intermediates/res/merged/release/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/tyler/.android/build-cache/e73b63a295565fae5382f8735a5d60e64b4e603c/output/res/drawable-v21/abc_edit_text_material.xml"
+    }
+]
