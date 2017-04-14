@@ -11,10 +11,6 @@
   "_installable": true,
   "_location": "/react-native-pull-up-down-refresh",
   "_nodeVersion": "6.5.0",
-  "_npmOperationalInternal": {
-    "host": "packages-18-east.internal.npmjs.com",
-    "tmp": "tmp/react-native-smart-pull-to-refresh-listview-1.6.10.tgz_1489543264784_0.4914372528437525"
-  },
   "_npmUser": {
     "email": "richard.jiang@gmail.com",
     "name": "richard"
@@ -77,5 +73,5 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "version": "1.0.0"
+  "version": "1.0.1"
 }
